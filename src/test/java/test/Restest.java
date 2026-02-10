@@ -1,6 +1,7 @@
 package test;
 import p1.app1;
 import org.testng.*;
+import org.testng.Assert;
 
 public class Restest {
 	@Test
